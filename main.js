@@ -3,3 +3,5 @@ function fun(a,b){
         return true;
     }
 }
+
+fun(15, 5)
